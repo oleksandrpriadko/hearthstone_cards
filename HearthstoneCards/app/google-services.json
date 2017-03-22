@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "698564458800",
+    "firebase_url": "https://hearthstonecards-41efc.firebaseio.com",
+    "project_id": "hearthstonecards-41efc",
+    "storage_bucket": "hearthstonecards-41efc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698564458800:android:114bd96da3f74860",
+        "android_client_info": {
+          "package_name": "priadko.android.hearthstonecards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698564458800-bkiajmmk987ctjfg3blo7oq36rg9toh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "priadko.android.hearthstonecards",
+            "certificate_hash": "7097fb5df735a702dc638e948ddab57d907ac4f9"
+          }
+        },
+        {
+          "client_id": "698564458800-p1571dc8tkbn79qt3a721mheh5fbij5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdJXxTLtfC39WVxkbsamyH9jqx0vHvrOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698564458800-p1571dc8tkbn79qt3a721mheh5fbij5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

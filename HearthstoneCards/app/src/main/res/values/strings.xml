@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HearthstoneCards</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_login_failed">Login failed</string>
+    <string name="text_coming_soon">Coming soon</string>
+    <string name="text_server_failed">Unfortunately, something went wrong in server</string>
+    <string name="text_no_conn">No connection</string>
+    <string name="title_no_conn">Offline</string>
+    <string name="text_try_again">Try again</string>
+    <string name="drawer_cards">Cards</string>
+    <string name="drawer_cards_back">Cards Back</string>
+    <string name="checking_version">Checking version…</string>
+    <string name="drawer_cards_by_set">Cards by Set</string>
+    <string name="drawer_cards_by_class">Cards by Class</string>
+    <string name="drawer_cards_by_faction">Cards by Faction</string>
+    <string name="drawer_cards_by_quality">Cards by Quality</string>
+    <string name="drawer_cards_by_race">Cards by Race</string>
+    <string name="drawer_cards_by_type">Cards by Type</string>
+</resources>

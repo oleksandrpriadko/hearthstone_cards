@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="32dp">
+
+        <android.support.v4.widget.Space
+            android:layout_width="wrap_content"
+            android:layout_height="999dp"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:id="@+id/imageView_icon"
+            android:layout_width="115dp"
+            android:layout_height="115dp"
+            android:layout_marginBottom="20dp"
+            android:contentDescription="@null"
+            app:srcCompat="@drawable/ic_cloud_off_black_24dp" />
+
+        <TextView
+            android:id="@+id/textView_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:gravity="center"
+            android:text="@string/title_no_conn"
+            android:textAllCaps="true"
+            android:textSize="19.2sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/text_no_conn"
+            android:textSize="14.4sp" />
+
+        <android.support.v4.widget.Space
+            android:layout_width="wrap_content"
+            android:layout_height="999dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+</layout>

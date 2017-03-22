@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cards"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/drawer_cards" />
+
+        <item
+            android:id="@+id/nav_cards_back"
+            android:icon="@drawable/ic_photo_album_black_24dp"
+            android:title="@string/drawer_cards_back" />
+
+        <item
+            android:id="@+id/nav_cards_set"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/drawer_cards_by_set" />
+
+        <item
+            android:id="@+id/nav_cards_class"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/drawer_cards_by_class" />
+
+        <item
+            android:id="@+id/nav_cards_faction"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/drawer_cards_by_faction" />
+
+        <item
+            android:id="@+id/nav_cards_quality"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/drawer_cards_by_quality" />
+
+        <item
+            android:id="@+id/nav_cards_race"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/drawer_cards_by_race" />
+
+        <item
+            android:id="@+id/nav_cards_type"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/drawer_cards_by_type" />
+    </group>
+
+</menu>
